@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<signos>
+    <signo>
+        <nome>Áries</nome>
+        <dataInicio>21-03</dataInicio>
+        <dataFim>20-04</dataFim>
+        <descricao>Áries é o primeiro signo do zodíaco, conhecido pela coragem, energia e liderança natural. Pessoas de Áries são pioneiras, determinadas e sempre prontas para novos desafios.</descricao>
+        <elemento>Fogo</elemento>
+        <planeta>Marte</planeta>
+        <qualidade>Cardinal</qualidade>
+    </signo>
+    <signo>
+        <nome>Touro</nome>
+        <dataInicio>21-04</dataInicio>
+        <dataFim>20-05</dataFim>
+        <descricao>Touro é conhecido pela determinação, paciência e amor pela estabilidade. Pessoas de Touro são práticas, confiáveis e apreciam os prazeres da vida.</descricao>
+        <elemento>Terra</elemento>
+        <planeta>Vênus</planeta>
+        <qualidade>Fixo</qualidade>
+    </signo>
+    <signo>
+        <nome>Gêmeos</nome>
+        <dataInicio>21-05</dataInicio>
+        <dataFim>20-06</dataFim>
+        <descricao>Gêmeos é versátil, comunicativo e curioso. Pessoas de Gêmeos são adaptáveis, inteligentes e sempre em busca de novos conhecimentos.</descricao>
+        <elemento>Ar</elemento>
+        <planeta>Mercúrio</planeta>
+        <qualidade>Mutável</qualidade>
+    </signo>
+    <signo>
+        <nome>Câncer</nome>
+        <dataInicio>21-06</dataInicio>
+        <dataFim>22-07</dataFim>
+        <descricao>Câncer é sensível, protetor e intuitivo. Pessoas de Câncer são emocionais, carinhosas e têm forte conexão com a família e o lar.</descricao>
+        <elemento>Água</elemento>
+        <planeta>Lua</planeta>
+        <qualidade>Cardinal</qualidade>
+    </signo>
+    <signo>
+        <nome>Leão</nome>
+        <dataInicio>23-07</dataInicio>
+        <dataFim>22-08</dataFim>
+        <descricao>Leão é confiante, generoso e naturalmente líder. Pessoas de Leão são criativas, carismáticas e gostam de estar no centro das atenções.</descricao>
+        <elemento>Fogo</elemento>
+        <planeta>Sol</planeta>
+        <qualidade>Fixo</qualidade>
+    </signo>
+    <signo>
+        <nome>Virgem</nome>
+        <dataInicio>23-08</dataInicio>
+        <dataFim>22-09</dataFim>
+        <descricao>Virgem é detalhista, prático e analítico. Pessoas de Virgem são organizadas, perfeccionistas e sempre buscam melhorar tudo ao seu redor.</descricao>
+        <elemento>Terra</elemento>
+        <planeta>Mercúrio</planeta>
+        <qualidade>Mutável</qualidade>
+    </signo>
+    <signo>
+        <nome>Libra</nome>
+        <dataInicio>23-09</dataInicio>
+        <dataFim>22-10</dataFim>
+        <descricao>Libra busca equilíbrio, harmonia e justiça. Pessoas de Libra são diplomáticas, charmosas e valorizam relacionamentos harmoniosos.</descricao>
+        <elemento>Ar</elemento>
+        <planeta>Vênus</planeta>
+        <qualidade>Cardinal</qualidade>
+    </signo>
+    <signo>
+        <nome>Escorpião</nome>
+        <dataInicio>23-10</dataInicio>
+        <dataFim>21-11</dataFim>
+        <descricao>Escorpião é intenso, apaixonado e misterioso. Pessoas de Escorpião são determinadas, transformadoras e têm grande poder de intuição.</descricao>
+        <elemento>Água</elemento>
+        <planeta>Plutão</planeta>
+        <qualidade>Fixo</qualidade>
+    </signo>
+    <signo>
+        <nome>Sagitário</nome>
+        <dataInicio>22-11</dataInicio>
+        <dataFim>21-12</dataFim>
+        <descricao>Sagitário é aventureiro, otimista e filosófico. Pessoas de Sagitário são livres, honestas e sempre em busca de novas experiências e conhecimentos.</descricao>
+        <elemento>Fogo</elemento>
+        <planeta>Júpiter</planeta>
+        <qualidade>Mutável</qualidade>
+    </signo>
+    <signo>
+        <nome>Capricórnio</nome>
+        <dataInicio>22-12</dataInicio>
+        <dataFim>20-01</dataFim>
+        <descricao>Capricórnio é disciplinado, responsável e ambicioso. Pessoas de Capricórnio são práticas, determinadas e sempre trabalham para alcançar seus objetivos.</descricao>
+        <elemento>Terra</elemento>
+        <planeta>Saturno</planeta>
+        <qualidade>Cardinal</qualidade>
+    </signo>
+    <signo>
+        <nome>Aquário</nome>
+        <dataInicio>21-01</dataInicio>
+        <dataFim>19-02</dataFim>
+        <descricao>Aquário é inovador, independente e humanitário. Pessoas de Aquário são originais, progressistas e sempre pensam no bem coletivo.</descricao>
+        <elemento>Ar</elemento>
+        <planeta>Urano</planeta>
+        <qualidade>Fixo</qualidade>
+    </signo>
+    <signo>
+        <nome>Peixes</nome>
+        <dataInicio>20-02</dataInicio>
+        <dataFim>20-03</dataFim>
+        <descricao>Peixes é sensível, intuitivo e compassivo. Pessoas de Peixes são empáticas, criativas e têm forte conexão com o mundo espiritual e emocional.</descricao>
+        <elemento>Água</elemento>
+        <planeta>Netuno</planeta>
+        <qualidade>Mutável</qualidade>
+    </signo>
+</signos>
